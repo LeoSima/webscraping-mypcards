@@ -1,0 +1,5 @@
+# Ignora todos os arquivos e sub-pastas em node_modules/
+node_modules/
+
+# Ignora todos os arquivos e sub-pastas em coverage/
+coverage/
